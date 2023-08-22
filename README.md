@@ -1,8 +1,8 @@
 # Character-ai-API
 simple code that can help you adapt to Character ai API
 
-## The Api is made by 
-![kramcat](https://img.shields.io/github.com/kramcat)
+## The Api is made by [kramcat](https://github.com/kramcat)
+
 
 ## 💻 Installation
 ```bash
